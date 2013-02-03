@@ -1,4 +1,3 @@
----
 access: public
 ---
 New Project Guide
