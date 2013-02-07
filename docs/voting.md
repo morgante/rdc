@@ -13,7 +13,7 @@ All students are encouraged to vote, including visiting NYUNY students.
 ###Voting from Abroad
 The ballot for students studying abroad will open on **February 9th**. To vote, you will:
 
-1. Go to the [online ballot](http://voting.sg.nyuad.org), where you will be prompted to log in to your NYU account.
+1. Go to the [online ballot](http://voting.sg.nyuad.org), where you may be prompted to log in to your NYU account.
 2. You will then see a screen asking if you authorize NYUAD Student Government to know your email address. This step is necessary to authenticate your vote.
 3. You will then be presented with the ballot listing all the candidates. For each office, simply select every candidate you approve of.
 4. When you have finished selecting candidates for each office, simply click "Vote" to cast your vote.
