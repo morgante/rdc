@@ -18,4 +18,6 @@ The ballot for students studying abroad will open on **February 9th**. To vote, 
 3. You will then be presented with the ballot listing all the candidates. For each office, simply select every candidate you approve of.
 4. When you have finished selecting candidates for each office, simply click "Vote" to cast your vote.
 
+If you have any issues, please contact the [elections board](mailto:nyuad.student.electionboard@nyu.edu).
+
 The polls will close on **February 11th** and results will be announced on **February 12th**.
